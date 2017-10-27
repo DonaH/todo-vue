@@ -2,6 +2,8 @@
 
 > Todo app using Vue2
 
+### If you want to try on your local dev, follow npm install, npm run dev, then open a browser to localhost:8080. Good luck!
+
 ## Build Setup
 
 ``` bash
