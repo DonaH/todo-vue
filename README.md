@@ -4,6 +4,8 @@
 
 ### If you want to try on your local dev, follow npm install, npm run dev, then open a browser to localhost:8080. Good luck!
 
+![screen shot of the Todo App](/src/assets/screen_shot.png "Screen Shot of Todo App")
+
 ## Build Setup
 
 ``` bash
